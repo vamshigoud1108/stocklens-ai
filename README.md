@@ -1,6 +1,7 @@
 # 📊 StockLens.AI
 AI-Powered Stock Analysis using Agentic AI (CrewAI + FastAPI + Streamlit)
-![]('assets/stock_lens_demo.png')
+![Project Demo](assets/stock_lens_demo.png)
+
 
 ## Overview
 **StockLens.AI** is an **AI-driven stock analysis application** that provides structured insights such as stock price, market metrics, trade decisions (BUY / SELL / HOLD), recent news, and research-style summaries.
@@ -178,6 +179,7 @@ This project demonstrates:
 💼 Aspiring Data Scientist & AI Engineer
 - GitHub:https://github.com/vamshigoud1108
 - LinkedIn:https://linkedin.com/in/vamshi-ramagoni
+
 
 
 
