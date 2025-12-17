@@ -1,0 +1,20 @@
+# Web and API
+fastapi==0.122.0
+uvicorn==0.38.0
+starlette==0.50.0
+python-dotenv==1.2.1
+pydantic==2.12.5
+pydantic-settings==2.12.0
+requests==2.32.5
+streamlit==1.51.0
+
+# Data / Finance
+pandas==2.3.3
+numpy==2.2.6
+yfinance==0.2.66
+
+# Agents / LLM
+crewai==1.6.1
+crewai-tools==1.6.1
+litellm==1.80.7
+groq==0.37.0
